@@ -1,7 +1,7 @@
 # Before You Publish: A Wikipedia Citation Challenge
 ## Articulate Rise 360 storyboard
 
-**Designer:** Angelos Palioudakis (Wikipedia: [Omnipaedista](https://en.wikipedia.org/wiki/User:Omnipaedista))  
+**Designer:** Angelos Palioudakis
 **Status:** Design blueprint / independent portfolio sample — not an exported Rise course  
 **Audience:** New Wikipedia contributors  
 **Duration:** Approximately 10 minutes  
