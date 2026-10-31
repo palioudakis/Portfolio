@@ -3,7 +3,7 @@
 ## Articulate Rise 360 — Course Storyboard
 
 **Designer:** Angelos Palioudakis
-**Format:** Self-paced online course  
+
 **Audience:** New Wikipedia contributors  
 **Estimated duration:** 10 minutes  
 **Status:** Course blueprint for an independent portfolio project
