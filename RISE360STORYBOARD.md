@@ -1,85 +1,158 @@
 # Before You Publish: A Wikipedia Citation Challenge
-## Articulate Rise 360 storyboard
+
+## Articulate Rise 360 — Course Storyboard
 
 **Designer:** Angelos Palioudakis
-**Status:** Design blueprint / independent portfolio sample — not an exported Rise course  
+**Format:** Self-paced online course  
 **Audience:** New Wikipedia contributors  
-**Duration:** Approximately 10 minutes  
-**Delivery:** Responsive, self-paced microlearning  
-**Design approach:** Scenario-based learning, corrective feedback, practice followed by assessment  
-**Disclaimer:** Independent learning-design project; not an official Wikimedia Foundation or Wikipedia training resource.
+**Estimated duration:** 10 minutes  
+**Status:** Course blueprint for an independent portfolio project
 
-## Learner problem
-New contributors may know how to enter an edit but struggle to apply verifiability, neutral point of view, and collaborative editing principles to everyday editorial choices. This is a design hypothesis, to validate through learner research.
+*This is an independent project, not an official Wikimedia training resource. The course has not yet been built in Rise 360.*
 
-## Outcomes
-After completing the module, learners will be able to:
-1. Identify a source suited to an independent claim about significance.
-2. Convert a promotional sentence into proportionate, attributed language.
-3. Select a constructive response to an editorial disagreement.
-4. Apply these principles in a short final knowledge check (target: 80% accuracy).
+## Overview
 
-## Recommended Rise 360 build
-Create a **Course** named `Before You Publish: A Wikipedia Citation Challenge` with four lessons. Use an accessible, high-contrast theme and avoid relying on color alone to convey meaning.
+Editing Wikipedia involves more than adding information to an article. Contributors need to judge whether a source is reliable, whether it supports a particular claim, and whether the wording gives that claim undue weight. They also need to work with other editors, who may interpret the same evidence differently.
 
-### Lesson 1 — Find the evidence (2 minutes)
-- **Blocks:** Text → Accordion → Knowledge Check (multiple choice) → Continue.
-- **Title:** A claim is only as strong as its source.
-- **Text:** Wikipedia content should be verifiable. The best source depends on the claim, and independent, reliable secondary sources are particularly valuable for evaluating significance.
-- **Accordion item A: Independence.** Does the source have a stake in the subject? Self-published promotion may support limited factual claims, but not independent assessments of importance.
-- **Accordion item B: Expertise.** Does the writer or publisher have relevant subject-matter competence?
-- **Accordion item C: Claim–source fit.** Does the cited passage actually support the specific claim?
-- **Knowledge check:** An article calls a product “industry-defining.” Which source best evaluates the claim?
-  - A. The manufacturer's press release.
-  - **B. An independent scholarly review.**
-  - C. An anonymous online comment.
-- **Correct feedback:** Independent scholarly analysis is the strongest starting point for evaluating broad significance. A primary source can still be useful for appropriately attributed facts.
-- **Incorrect feedback:** Consider independence, expertise, and whether the source directly supports the assessment.
-- **Policy:** https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
+This short course introduces these problems through situations that new contributors are likely to encounter. Rather than explaining Wikipedia policies at length, it asks learners to make editorial decisions and then explains the reasoning behind each answer.
 
-### Lesson 2 — Write with balance (2 minutes)
-- **Blocks:** Text → Flashcards → Scenario OR Knowledge Check → Continue.
-- **Title:** Precision is more persuasive than praise.
-- **Text:** Avoid presenting promotional or exaggerated evaluation as encyclopaedic fact.
-- **Before example:** “Aster Lab's stunning breakthrough changed scientific history forever.”
-- **Context:** Fictional Aster Lab is described in a 2021 independent review as an early contributor to optical imaging through a 2014 technique.
-- **Prompt:** Which revision is best?
-  - A. “Aster Lab revolutionised modern science.”
-  - **B. “A 2021 independent review described Aster Lab's 2014 work as an early contribution to optical imaging.”**
-  - C. “Aster Lab is undoubtedly one of the most important laboratories.”
-- **Feedback:** B is specific, attributed, and proportionate to the evidence.
-- **Policy:** https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view
+The course focuses on three areas: reliable sourcing, neutral writing, and editorial collaboration.
 
-### Lesson 3 — Work with others (2 minutes)
-- **Blocks:** Scenario block → Text → Continue.
-- **Title:** An edit is the start of a conversation.
-- **Set-up:** Another editor reverts your sourced, neutral revision and argues for stronger wording.
-- **Choices:**
-  - A. Revert repeatedly. → Feedback: This can escalate a disagreement.
-  - **B. Explain the source-based rationale on the talk page and invite discussion.** → Feedback: This supports consensus-building.
-  - C. Appeal to your academic credentials. → Feedback: Authority comes from evidence and policy, not personal rank.
-- **Policy:** https://en.wikipedia.org/wiki/Wikipedia:Consensus
+## Learning Objectives
 
-### Lesson 4 — Check your judgement (4 minutes)
-- **Blocks:** Quiz lesson with five multiple-choice questions; passing threshold 80%.
-- **Q1:** Is a reliable source automatically reliable for every claim? **No: context matters.**
-- **Q2:** How should one address “unquestionably the best”? **Replace with precise, supportable information.**
-- **Q3:** Two credible sources disagree. **Check context and quality; reflect uncertainty appropriately.**
-- **Q4:** An editor challenges your change. **Discuss evidence and seek consensus.**
-- **Q5:** Does any citation support any claim? **No: the source must support the exact material.**
-- **Passing feedback:** You completed this short contributor-onboarding exercise. Consult policy pages for more detailed guidance.
-- **Retry feedback:** Review the relevant lessons and retake the knowledge check.
+By the end of the course, participants should be able to:
 
-## Accessibility and localisation
-- Use descriptive headings and clear action labels.
-- Write meaningful image alternative text; omit decorative images where possible.
-- Test keyboard access, focus order, contrast, and small-screen layouts.
-- Provide readable feedback in text, not color alone.
-- Consider Greek and French localisation after an English pilot. Check link targets and examples for each language edition; policies can differ.
+1. Evaluate a source's suitability for a particular claim.
+2. Recognise promotional or exaggerated language and replace it with neutral wording.
+3. Respond constructively when another editor disputes a change.
+4. Apply these principles in a short assessment, with a target score of 80%.
 
-## Evaluation plan (proposed; not performed)
-- Pilot with 5–8 volunteer novice editors, with consent.
-- Ask learners to think aloud at each decision point.
-- Measure question-level accuracy, completion and perceived clarity where hosting setup permits.
-- Review recurring misconceptions; revise wording and feedback accordingly.
-- Re-test revised content with new participants.
+## Course Structure
+
+### Lesson 1 — Finding Reliable Sources (2 minutes)
+
+**Rise blocks:** Text, Accordion, Multiple-choice Knowledge Check
+
+A Wikipedia citation should do more than point to a published source. The source needs to be appropriate for the claim being made.
+
+The lesson introduces three questions worth asking before citing something:
+
+- **Independence:** Is the source independent of its subject, or does it have a reason to promote it?
+- **Expertise:** Does the author or publisher have the relevant knowledge?
+- **Relevance:** Does the cited passage actually support what the article says?
+
+#### Exercise
+
+An article describes a new product as "industry-defining". Which source would provide the strongest support for that assessment?
+
+A. A press release from the manufacturer.  
+B. An independent scholarly review.  
+C. An anonymous online comment.
+
+**Correct answer:** B.
+
+**Feedback:** An independent scholarly review is a better starting point for assessing a product's significance. A manufacturer's press release may be useful for basic product information, but it does not independently establish the product's importance.
+
+**Reference:** [Wikipedia: Reliable sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources)
+
+### Lesson 2 — Writing Neutrally (2 minutes)
+
+**Rise blocks:** Text, Flashcards, Knowledge Check
+
+Wikipedia articles should describe their subjects without adopting promotional language. This doesn't mean avoiding judgements altogether. It means making clear whose judgement is being reported and what evidence supports it.
+
+Consider the following fictional example:
+
+**Original sentence:**
+
+"Aster Lab's stunning breakthrough changed scientific history forever."
+
+A 2021 independent review describes Aster Lab's work in 2014 as an early contribution to optical imaging.
+
+#### Exercise
+
+Which revision is most appropriate?
+
+A. "Aster Lab revolutionised modern science."
+
+B. "A 2021 independent review described Aster Lab's 2014 work as an early contribution to optical imaging."
+
+C. "Aster Lab is undoubtedly one of the most important laboratories."
+
+**Correct answer:** B.
+
+**Feedback:** The revised sentence identifies the source, describes the contribution more precisely, and avoids making claims that the available evidence cannot support.
+
+**Reference:** [Wikipedia: Neutral point of view](https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view)
+
+### Lesson 3 — Working with Other Editors (2 minutes)
+
+**Rise blocks:** Scenario, Text
+
+Wikipedia articles are written collaboratively, so disagreements are inevitable. The important question is how contributors handle them.
+
+#### Scenario
+
+You replace a promotional sentence with a more neutral version supported by an independent source. Another editor reverts your change, arguing that the original wording better reflects the subject's importance.
+
+What do you do?
+
+A. Restore your edit repeatedly until the other editor accepts it.
+
+B. Explain your reasoning on the article's talk page, refer to the source, and invite discussion.
+
+C. Point out your academic qualifications and insist that your interpretation is correct.
+
+**Correct answer:** B.
+
+#### Feedback
+
+- **A:** Repeated reverting is unlikely to resolve the disagreement and may lead to an edit war.
+- **B:** Explaining the evidence and discussing the wording gives other contributors an opportunity to reach consensus.
+- **C:** Academic expertise can be valuable, but editorial decisions must be justified through sources and Wikipedia policies rather than personal credentials.
+
+**Reference:** [Wikipedia: Consensus](https://en.wikipedia.org/wiki/Wikipedia:Consensus)
+
+### Lesson 4 — Putting It into Practice (4 minutes)
+
+**Rise blocks:** Graded Quiz
+
+The final assessment consists of five multiple-choice questions covering the material introduced in the preceding lessons.
+
+| Question | Expected response |
+|---|---|
+| Is a reliable source suitable for every claim? | No. Reliability depends partly on context. |
+| How should an unsupported superlative be handled? | Replace it with precise, verifiable information. |
+| What if two credible sources disagree? | Examine the disagreement and represent uncertainty where appropriate. |
+| How should an editor respond to a disputed change? | Discuss the evidence and seek consensus. |
+| Is a citation sufficient simply because it comes from a published source? | No. It must support the specific statement. |
+
+**Passing score:** 80% (four out of five questions).
+
+Learners who do not pass can review the earlier lessons and attempt the assessment again.
+
+The course closes with links to the relevant Wikipedia policies for further reading.
+
+## Accessibility and Language
+
+The course will use a simple layout, clear headings, and short passages of text. Feedback will be provided in writing rather than conveyed by colour alone.
+
+Before publication, I plan to test keyboard navigation, screen-reader compatibility, contrast, and the mobile layout.
+
+The first version will be in English. Greek and French versions could follow, although their examples and policy references would need to be checked against the conventions of the respective language editions.
+
+## Testing and Revisions
+
+I plan to test the course with five to eight volunteers who have little or no Wikipedia editing experience.
+
+Participants will be asked to complete the lessons and explain their reasoning as they work through the exercises. I will record which questions cause difficulty and ask for feedback on the clarity of the explanations.
+
+The purpose is to find out whether the course helps learners make better editorial decisions, rather than simply remember the correct answers.
+
+I will use the results to revise the examples, feedback, and assessments before preparing a final version.
+
+## Development Notes
+
+The course is designed for Articulate Rise 360, using its standard lesson blocks and assessment features. The scenario in Lesson 3 will be the main interactive element.
+
+A separate HTML prototype is available through my GitHub portfolio. The prototype illustrates the intended learning experience but should not be confused with a completed Rise 360 course.
